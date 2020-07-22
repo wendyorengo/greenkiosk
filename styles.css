@@ -1,0 +1,27 @@
+body{
+  background-image: url("https://kalimonigreens.com/assets/images/home-page/organic-vegetables-and-garden-tools-on-green-kalimoni-greeens.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.text{
+    font-family: 'Kalam', cursive;
+}
+li{
+    font-weight: bold;
+}
+h3{
+    text-align:center;
+    padding-top:300px;
+    
+    
+}
+#transp{
+    color:white;
+    margin-left:600px;
+    text-align: center;
+    font-family: bold;
+    background: transparent;
+}
+#one{
+    color:black;
+}
