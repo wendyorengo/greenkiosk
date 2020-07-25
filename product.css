@@ -35,7 +35,7 @@
   .openbtn {
     font-size: 20px;
     cursor: pointer;
-    background-color:;
+    background-color:black;
     color: white;
     padding: 5px 10px;
     border: none;
@@ -56,4 +56,18 @@
     .sidebar {padding-top: 15px;}
     .sidebar a {font-size: 18px;}
   }
+  #one{
+    float:left;
+  }
+  #img1{
   
+  /* background-color: white;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 10px;
+  padding: 20px;
+  padding:30px; */
+
+  }
+  a{
+    text-decoration: none;
+  }
